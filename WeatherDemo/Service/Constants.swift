@@ -8,6 +8,7 @@
 import Foundation
 
 struct Constants {
-    static let host1 = "https://api.openweathermap.org"
+    static let host = "https://api.openweathermap.org"
     static let key = "ef62e4995bcdfe763c409b749977eeba"
 }
+
